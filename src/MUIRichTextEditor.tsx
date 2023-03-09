@@ -252,7 +252,7 @@ const styleRenderMap: DraftStyleMap = {
 };
 
 const { hasCommandModifier } = KeyBindingUtil;
-const autocompleteMinSearchCharCount = 2;
+const autocompleteMinSearchCharCount = 0;
 const lineHeight = 26;
 const defaultInlineToolbarControls = ["bold", "italic", "underline", "clear"];
 

@@ -87,4 +87,3 @@ var getLineNumber = function (editorState) {
         .keySeq().findIndex(function (k) { return k === currentBlockKey; });
 };
 exports.getLineNumber = getLineNumber;
-//# sourceMappingURL=utils.js.map

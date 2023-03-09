@@ -16,4 +16,3 @@ exports.default = (0, mui_1.withStyles)(Blockquote, function (theme) { return ({
         borderLeft: "4px solid " + theme.palette.grey.A100,
     },
 }); });
-//# sourceMappingURL=Blockquote.js.map

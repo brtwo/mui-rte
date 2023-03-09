@@ -82,4 +82,3 @@ exports.default = (0, mui_1.withStyles)(Media, function (_a) {
         },
     });
 });
-//# sourceMappingURL=Media.js.map

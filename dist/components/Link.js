@@ -11,4 +11,3 @@ var Link = function (_a) {
     return (react_1.default.createElement(material_1.Link, { href: url, className: className + " editor-anchor", target: "_blank" }, children));
 };
 exports.default = Link;
-//# sourceMappingURL=Link.js.map

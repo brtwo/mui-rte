@@ -225,4 +225,3 @@ var Toolbar = function (props) {
     })));
 };
 exports.default = Toolbar;
-//# sourceMappingURL=Toolbar.js.map

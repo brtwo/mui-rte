@@ -40,4 +40,3 @@ var ToolbarButton = function (props) {
     return null;
 };
 exports.default = ToolbarButton;
-//# sourceMappingURL=ToolbarButton.js.map

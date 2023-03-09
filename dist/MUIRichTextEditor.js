@@ -66,7 +66,7 @@ var styleRenderMap = {
     },
 };
 var hasCommandModifier = draft_js_1.KeyBindingUtil.hasCommandModifier;
-var autocompleteMinSearchCharCount = 2;
+var autocompleteMinSearchCharCount = 0;
 var lineHeight = 26;
 var defaultInlineToolbarControls = ["bold", "italic", "underline", "clear"];
 var findLinkEntities = function (contentBlock, callback, contentState) {
@@ -919,4 +919,3 @@ exports.default = (0, mui_1.withStyles)((0, react_1.forwardRef)(MUIRichTextEdito
 }, {
     name: "MUIRichTextEditor",
 });
-//# sourceMappingURL=MUIRichTextEditor.js.map
